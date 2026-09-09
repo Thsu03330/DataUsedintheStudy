@@ -2,10 +2,6 @@ import MDAnalysis as mda
 import numpy as np
 import matplotlib.pyplot as plt
 
-print("\n=======================================================")
-print("tau_Res Time calculation program ver1.1")
-print("Provided by LawrenceThsu email:2416301061@st.gxu.edu.cn")
-print("=======================================================\n")
 # ==============================================
 # User input parameters
 # ==============================================
