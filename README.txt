@@ -1,4 +1,6 @@
-This folder contains: 
+This repository contains computational data, representative molecular
+configurations, and analysis scripts associated with the submitted manuscript.
+
 (1) the coordinates of all atoms recorded in xyz format
 in the final frame before the end of the MD simulation
 (NVT ensemble) for the three systems; 
